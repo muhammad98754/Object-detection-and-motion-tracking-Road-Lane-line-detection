@@ -7,6 +7,8 @@ For object detection, I employed the HSV color space to effectively isolate and 
 
 To track objects over time, I adopted contour analysis techniques. By identifying and tracking the contours of objects, I could accurately determine their motion and trajectory. This allowed me to track moving objects even in complex scenes with occlusions or background clutter.
 
+                                  motion detection and tracking using opencv Contours
+
 ![windowkk](https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/9fcda5bf-f47c-485a-832d-e96beeb4042c)
 
 In addition to contour analysis, I incorporated the Camshift (Continuously Adaptive Mean Shift) algorithm from OpenCV for object tracking. This algorithm not only tracks objects based on their appearance but also dynamically adapts its tracking window size and position, ensuring accurate tracking even when objects undergo scale or orientation changes.
