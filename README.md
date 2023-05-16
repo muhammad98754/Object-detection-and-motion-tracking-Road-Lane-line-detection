@@ -22,6 +22,10 @@ To track objects over time, I adopted contour analysis techniques. By identifyin
 
 In addition to contour analysis, I incorporated the Camshift (Continuously Adaptive Mean Shift) algorithm from OpenCV for object tracking. This algorithm not only tracks objects based on their appearance but also dynamically adapts its tracking window size and position, ensuring accurate tracking even when objects undergo scale or orientation changes.
 
+                                        Object Tracking using Camshift method
+                                        
+https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/7a1c9c4a-8e73-4fd3-a955-071c8dca667b
+
 Furthermore, I extended my project to include road lane line detection, which is crucial for autonomous driving systems. By analyzing video frames, I developed algorithms to extract and track lane lines, enabling autonomous vehicles to stay within designated lanes. This contributed to enhancing the safety and reliability of autonomous driving technologies.
 
                                     Road Lane Line Detection
