@@ -13,10 +13,10 @@ Furthermore, I extended my project to include road lane line detection, which is
 
 Overall, this project showcased my proficiency in utilizing OpenCV for object detection and tracking using the HSV color space, contour analysis, and the Camshift algorithm. Additionally, the development of road lane line detection added value to autonomous driving systems by enhancing their ability to perceive and navigate the road environment.
 
-                             Background Subtraction method (original image)
+                                    Background Subtraction method (original image)
                              
 ![window](https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/408b0a7f-b27a-4e94-a7ea-a449e859e1e3)                             
-                             Background Subtraction method (result)
+                                      Background Subtraction method (result)
                              
 ![fgmask](https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/c1a37357-a86d-415f-bd1b-aa62f45ca641)
 
