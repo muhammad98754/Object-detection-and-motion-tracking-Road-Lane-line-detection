@@ -15,11 +15,11 @@ Overall, this project showcased my proficiency in utilizing OpenCV for object de
 
                              Background Subtraction method (original image)
                              
+![window](https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/408b0a7f-b27a-4e94-a7ea-a449e859e1e3)                             
+                             Background Subtraction method (result)
+                             
 ![fgmask](https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/c1a37357-a86d-415f-bd1b-aa62f45ca641)
 
-                            Background Subtraction method (result)
-                            
-![window](https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/408b0a7f-b27a-4e94-a7ea-a449e859e1e3)
-
+                         
                              
                              
