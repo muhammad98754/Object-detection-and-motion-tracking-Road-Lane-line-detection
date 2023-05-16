@@ -24,6 +24,10 @@ In addition to contour analysis, I incorporated the Camshift (Continuously Adapt
 
                                         Object Tracking using Camshift method
                                         
+![windowmgh](https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/bee01c6d-edac-4033-82fd-d7afac0ed99f)
+
+                                        (Full Video uploaded on Youtube....Link Below )
+                                        
 https://studio.youtube.com/video/ixm2hXOw4RU/edit
 
 Furthermore, I extended my project to include road lane line detection, which is crucial for autonomous driving systems. By analyzing video frames, I developed algorithms to extract and track lane lines, enabling autonomous vehicles to stay within designated lanes. This contributed to enhancing the safety and reliability of autonomous driving technologies.
