@@ -11,6 +11,8 @@ In addition to contour analysis, I incorporated the Camshift (Continuously Adapt
 
 Furthermore, I extended my project to include road lane line detection, which is crucial for autonomous driving systems. By analyzing video frames, I developed algorithms to extract and track lane lines, enabling autonomous vehicles to stay within designated lanes. This contributed to enhancing the safety and reliability of autonomous driving technologies.
 
+                                    Road Lane Line Detection
+
 ![Figure_1](https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/aaef0281-f158-403c-9f54-29e322c0b9da)
 
 Overall, this project showcased my proficiency in utilizing OpenCV for object detection and tracking using the HSV color space, contour analysis, and the Camshift algorithm. Additionally, the development of road lane line detection added value to autonomous driving systems by enhancing their ability to perceive and navigate the road environment.
