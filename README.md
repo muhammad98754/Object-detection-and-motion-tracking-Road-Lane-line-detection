@@ -5,7 +5,7 @@ In my project, I utilized OpenCV to implement object detection and tracking algo
 
 For object detection, I employed the HSV color space to effectively isolate and segment specific objects of interest. This approach proved to be highly advantageous, as it provided better discrimination capabilities compared to other color spaces. By setting appropriate color ranges in the HSV color space, I was able to detect objects with precision and robustness.
 
-                                 object detection and tracking from images using HSV color space(original image)
+                       object detection and tracking from images using HSV color space(original image)
    
 ![smarties](https://github.com/muhammad98754/Object-detection-and-motion-tracking-Road-Lane-line-detection/assets/130402856/b4fbce58-e052-42ec-b7fd-33ef41e8dd3d)
 
